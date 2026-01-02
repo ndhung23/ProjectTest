@@ -2,7 +2,7 @@
 Fullstack web application được xây dựng với React (Vite) + Node.js + Express + MongoDB.  
 Dự án sử dụng mô hình Frontend / Backend tách biệt, build frontend và serve bằng backend khi deploy.
 ---
-## 🌐 Demo
+## 🌐 Demo:(Mất khoảng 30s để loading web)
 👉 Live Demo: https://projecttest-w2vn.onrender.com/
 ---
 ## 🛠️ Tech Stack
