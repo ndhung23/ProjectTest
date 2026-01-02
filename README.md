@@ -3,7 +3,7 @@ Fullstack web application được xây dựng với React (Vite) + Node.js + Ex
 Dự án sử dụng mô hình Frontend / Backend tách biệt, build frontend và serve bằng backend khi deploy.
 ---
 ## 🌐 Demo
-👉 Live Demo: [https://YOUR_DEPLOY_URL_HERE](https://projecttest-w2vn.onrender.com/)
+👉 Live Demo: https://projecttest-w2vn.onrender.com/
 ---
 ## 🛠️ Tech Stack
 ### Frontend
