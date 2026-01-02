@@ -11,7 +11,6 @@ Dự án sử dụng mô hình Frontend / Backend tách biệt, build frontend v
 - JavaScript (ES6+)
 - HTML5, CSS3
 - Axios
-- ESLint
 ### Backend
 - Node.js
 - Express
